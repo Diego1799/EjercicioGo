@@ -6,34 +6,21 @@ Write a Go CLI that receives the path to one of these log files and based on it 
 
 With this instruction you would run this assignment
 
-### pre requirements 📋
+### Pre requirements 📋
 
 ```
 1. We have to install go in our computers in the next link we can download https://golang.org/dl/
+2. Install the library Go Polyline with the command 'go get github.com/twpayne/go-polyline'
 ```
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+### Run 🔧
 
 ```
-Da un ejemplo
+To see the assignment working we have to go to the terminal, enter in where is our files,
+and run with the command 'go run assignment.go'
 ```
 
-_Y repite_
+## Authors ✒️
 
-```
-hasta finalizar
-```
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Diego Ramirez** - [diego1799](https://github.com/Diego1799)
 
